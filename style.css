@@ -25,6 +25,14 @@ body{ /*isso é uma tag*/
     font-weight: bold;
     border: 1px solid crimson; 
     font-family: Arial, Helvetica, sans-serif;
+}
+.produtos .item{
+    display: inline-block;
+    padding: 10px;
+}
 
+.produtos{
+    text-align: center;
+    margin: 20px;
 
 }
